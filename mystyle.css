@@ -1,3 +1,12 @@
 h1 {
-    color: blueviolet;
+    color: #C0BA6E;
+    font-style: oblique;
+}
+
+h2 {
+    color: #3B695F;
+}
+
+form {
+    color: #00495f;
 }
