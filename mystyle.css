@@ -1,12 +1,20 @@
 h1 {
-    color: #C0BA6E;
+    color: #13465d;
     font-style: oblique;
 }
 
 h2 {
-    color: #3B695F;
+    color: #13465d;
+}
+
+P {
+    color:whitesmoke
 }
 
 form {
     color: #00495f;
+}
+
+body {
+    background-color: #c2ae8b;
 }
